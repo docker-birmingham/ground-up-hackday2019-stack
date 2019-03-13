@@ -1,0 +1,1 @@
+Potential Stack for the [2019 Hack Project](https://github.com/docker-birmingham/ground-up-hackday2019)
